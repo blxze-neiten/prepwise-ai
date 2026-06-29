@@ -215,7 +215,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Cephas Wilson**
+**Blxze Wilson**
 
 Computer Science Student
 
